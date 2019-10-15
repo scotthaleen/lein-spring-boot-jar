@@ -1,4 +1,6 @@
 # lein-spring-boot-jar
+[![Actions Status](https://github.com/scotthaleen/lein-spring-boot-jar/workflows/Clojure%20CI/badge.svg)](https://github.com/scotthaleen/lein-spring-boot-jar/actions)
+
 
 **Experimental**
 
